@@ -1,6 +1,6 @@
 # Installing
 
-1. run `git clone https://<user>@bitbucket.org/weplango/wpg-back.git`
+1. run `git clone https://github.com/ialba/phrasee-back-notifications`
 2. run `npm i`
 
 # Launching
