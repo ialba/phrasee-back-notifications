@@ -1,0 +1,22 @@
+{
+  "name": "phrasee-back-notifications",
+  "version": "1.0.0",
+  "description": "Technical assignation for Iñigo Alba",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --watch",
+    "launch": "nodemon ./dist/index.js --watch",
+    "start": "tsc && node ./dist/index.js"
+  },
+  "author": "Iñigo Alba <inigo.alba@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/express": "^4.16.0",
+    "@types/node": "^10.5.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "typescript": "^2.9.2",
+    "typescript-rest": "^1.6.1"
+  }
+}
